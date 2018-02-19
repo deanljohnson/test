@@ -1,0 +1,4 @@
+void differentFunction()
+{
+	cout << "hmm";
+}
