@@ -1,4 +1,8 @@
-void differentFunction()
+void testFunction()
 {
 	cout << "hmm";
+	cout << "first";
+	cout << "second";
+	cout << "uh-oh";
+	cout << "third";
 }
