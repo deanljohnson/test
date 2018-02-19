@@ -1,0 +1,7 @@
+void testFunction()
+{
+	cout << "first";
+	cout << "second";
+	cout << "uh-oh";
+	cout << "third";
+}
